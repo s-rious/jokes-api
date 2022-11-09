@@ -1,0 +1,23 @@
+body {
+  background-color: yellow;
+}
+
+#content {
+  background-color: white;
+  position: absolute;
+  top: 30%;
+  right: 25%;
+  padding: 10px;
+  text-align: center;
+  border: black 1px solid;
+  width: 40%;
+}
+
+button {
+  font-size: 20px;
+  margin-top: 50px;
+}
+button:hover {
+  color: white;
+  background-color: black;
+}
